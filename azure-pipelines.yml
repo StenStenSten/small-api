@@ -3,7 +3,7 @@ trigger:
 
 variables:
   azureServiceConnectionId: 'MINU-AZURE-CONNECTION'
-  webAppName: 'minu-api-rakendus'
+  webAppName: 'lihtneApikooliks'
   vmImageName: 'ubuntu-latest'
   pythonVersion: '3.10'
 
